@@ -1,27 +1,27 @@
 def division(num1, num2)
-  return num1 / num2
+  puts num1 / num2
 end
 
 def assign_variable(value = "Bob")
-  return value
+  puts value
 end
 
 def argue(phrase = "I'm right and you are wrong!")
-  return phrase
+  puts phrase
 end
 
 def greeting(greeting, name)
-  return greeting
+  puts greeting
 end
 
 def return_a_value(phrase = "Nice")
-  return phrase
+  puts phrase
 end
 
 def last_evaluated_value(phrase = "expert")
-  return phrase
+  puts phrase
 end
 
 def pizza_party(type = "cheese")
-  return type
+  puts type
 end
